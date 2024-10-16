@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiscordProjectSettings">
+    <option name="show" value="ASK" />
+    <option name="description" value="" />
+    <option name="theme" value="material" />
+    <option name="button1Title" value="" />
+    <option name="button1Url" value="" />
+    <option name="button2Title" value="" />
+    <option name="button2Url" value="" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9532183a-116d-466d-9566-0d567c300826" />
+  </component>
+</project>
